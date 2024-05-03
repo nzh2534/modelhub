@@ -1,0 +1,9 @@
+.flippable-card-container {
+    /* === Sizing === */
+    height: 35vh;
+    width: auto;
+  }
+
+.flippable-card-container:hover {
+  background-color: #aebc37;
+}

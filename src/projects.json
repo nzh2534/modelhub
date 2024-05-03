@@ -1,0 +1,37 @@
+{
+    "projects" : [
+        {
+            "name": "Predict a Child's Literacy and Numeracy Standard by Parent's Worldview",
+            "input": {
+                "WorldviewGodWantsChidrenSurvive": [0, 1, 2, 3, 4],
+                "WorldviewEveryoneIsImageOfGod": [0, 1, 2, 3, 4],
+                "WorldviewEvilEyeCausesIllnesses": [0, 1, 2, 3, 4],
+                "WorldviewGodIsGodAndBad": [0, 1, 2, 3, 4],
+                "WorldviewSometimesGodWillsChildrenDie": [0, 1, 2, 3, 4],
+                "WorldviewAllLifeIsSacred": [0, 1, 2, 3, 4],
+                "WorldviewIBelieveInSuperstitions": [0, 1, 2, 3, 4],
+                "WorldviewICanInfluenceMyCommunity": [0, 1, 2, 3, 4],
+                "WorldviewIShouldDenounceInjustice": [0, 1, 2, 3, 4],
+                "WorldviewGodsWantsMeToWorkForMyCommunity": [0, 1, 2, 3, 4],
+                "WorldviewAllPeopleHaveEqualValue": [0, 1, 2, 3, 4],
+                "WorldviewPeopleAreMeanToProsper": [0, 1, 2, 3, 4],
+                "WorldviewINeedSacrificeForMyFamily": [0, 1, 2, 3, 4],
+                "WorldviewEveryoneHaveGifts": [0, 1, 2, 3, 4],
+                "WorldviewScoldChildIsImportant": [0, 1, 2, 3, 4],
+                "WorldviewSufferingIsMatterOfDestiny": [0, 1, 2, 3, 4],
+                "WorldviewDisastersAreDivinePunishment": [0, 1, 2, 3, 4],
+                "WorldviewDisastersAreBadManagementOfResources": [0, 1, 2, 3, 4],
+                "WorldviewReduceSufferingRequiresHardWork": [0, 1, 2, 3, 4],
+                "WorldviewWomenMenHaveSameValue": [0, 1, 2, 3, 4],
+                "WorldviewWifeCanLeaveHouse": [0, 1, 2, 3, 4],
+                "WorldviewWifeCanExpressOpinion": [0, 1, 2, 3, 4],
+                "WorldviewMenMadeImportantDections": [0, 1, 2, 3, 4],
+                "WorldviewGetMarryIsMoreImportant": [0, 1, 2, 3, 4]
+            },
+            "link": "https://g2hytejrqdca3hwdngf7u7lgra0fijmf.lambda-url.us-east-2.on.aws/cla_worldviewratings_logreg",
+            "type": "Logistic Regression",
+            "size": 14288,
+            "accuracy": "61%"
+        }
+    ]
+}
