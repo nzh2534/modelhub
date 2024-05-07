@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/modelhub/static/css/main.868e7ae8.css",
-    "main.js": "/modelhub/static/js/main.a73ec866.js",
+    "main.js": "/modelhub/static/js/main.246972f8.js",
     "static/js/787.cda612ba.chunk.js": "/modelhub/static/js/787.cda612ba.chunk.js",
     "index.html": "/modelhub/index.html",
     "main.868e7ae8.css.map": "/modelhub/static/css/main.868e7ae8.css.map",
-    "main.a73ec866.js.map": "/modelhub/static/js/main.a73ec866.js.map",
+    "main.246972f8.js.map": "/modelhub/static/js/main.246972f8.js.map",
     "787.cda612ba.chunk.js.map": "/modelhub/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.868e7ae8.css",
-    "static/js/main.a73ec866.js"
+    "static/js/main.246972f8.js"
   ]
 }
